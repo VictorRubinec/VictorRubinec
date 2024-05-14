@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 Projetos atuais:
 * Projeto atual da faculdade: [Horus](https://github.com/Project-Horus-G9)
-* Projeto atual pessoal: [BotZap](https://github.com/Projeto-BotZap)
+<!-- * Projeto atual pessoal: [BotZap](https://github.com/Projeto-BotZap) -->
 
 
 ## 🌐 Midias:
