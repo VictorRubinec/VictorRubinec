@@ -3,7 +3,7 @@
 Projetos Acedêmicos:
 <ul>
   <li><a href="https://github.com/Project-Horus-G9"> Horus </a></li>
-  <li><a href="https://github.com/Harmon-yo"> Harmon-yo </a> </li>
+  <li><a href="https://github.com/Harmon-yo"> Harmonyo </a> </li>
   <li><a href="https://github.com/KASH-PLUS"> KASH-PLUS </a> </li>
   <li><a href="https://github.com/Sentinel-Track"> Sentinel Track </a> </li>
 </ul>
