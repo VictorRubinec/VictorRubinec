@@ -1,5 +1,10 @@
 # 💫 Sobre Mim:
 
+Meu TCC:
+<ul>
+  <li><a href="https://github.com/DEEP-Dynamic-Emotion-Extraction-Process"> D.E.E.P. - Dynamic Emotion Extraction Process </a></li>
+</ul>
+
 Projetos Acedêmicos:
 <ul>
   <li><a href="https://github.com/Project-Horus-G9"> Horus </a></li>
